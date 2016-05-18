@@ -2,6 +2,6 @@ package testgit01;
 
 public class Add {
 	public static void main(String[] args) {
-		System.out.println("这是我的测试");
+		System.out.println("杩欐槸鎴戠殑娴嬭瘯");
 	}
 }
